@@ -6,7 +6,7 @@ Also the user can search about specefic category and the result of thr search wi
 
 ## Steps to use the app
 
-1- clone the app form the repository using this link https://github.com/ahmedadel696/readsApp_AhmedAdel
-2- go to the project folder.
-3- run npm install command.
-4- run npm start command.
+- clone the app form the repository using this link https://github.com/ahmedadel696/readsApp_AhmedAdel
+- go to the project folder.
+- install all project dependencies with `npm install`
+- start the development server with `npm start`
